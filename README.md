@@ -5,7 +5,7 @@ Arc-Potato theme is the [Arc](https://github.com/horst3180/arc-theme) theme with
 
 ##### Arc-Flatabulous-Darker
 
-![A screenshot of the Arc-Potato theme](http://i.imgur.com/gneZsVQ.png)
+![A screenshot of the Arc-Potato theme](https://imgur.com/a/WvR5P.png)
 
 ### Installation
 
